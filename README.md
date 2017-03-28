@@ -1,7 +1,7 @@
 PortScanner
 ===============
 
-##Maintainers (Alphabetically)
+## Maintainers (Alphabetically)
 * Alexander Martinz
 * Ashwani Garg
 * Durlabh Sharma
@@ -9,7 +9,7 @@ PortScanner
 * Shubham Raj
 * Supratik Banerjee
 
-##Implementations (Alphabetically)
+## Implementations (Alphabetically)
 * Android
 * C
 * C# (CSharp)
